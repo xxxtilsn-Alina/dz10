@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100vh;
+    background-image: url("jeremy-allouche-YStboKiFPVw-unsplash.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.content {
+    color: white;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    padding-top: 250px;
+    font-family: 'Arima', cursive;
+}
+
+.span {
+    font-size: 23px;
+}
+
+.h1 {
+    font-size: 120px;
+    font-family: 'Permanent Marker', cursive;
+    margin-bottom: 25px;
+}
+
+.but {
+    text-decoration: none;
+    display: block;
+    margin: auto;
+    color: white;
+    background-color: darkslateblue;
+    border-radius: 60px;
+    width: 200px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.but:hover {
+    background-color: mediumpurple;
+}
